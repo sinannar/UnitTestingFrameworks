@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhoneSimulator", "MobilePhoneSimulator\MobilePhoneSimulator.csproj", "{A59C8900-EBAA-40AB-8605-A709D55B44BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797A87E7-0791-4B5F-9F2C-DCB2C5793EAF}
+	EndGlobalSection
+EndGlobal
