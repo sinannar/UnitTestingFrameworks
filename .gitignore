@@ -1,3 +1,9 @@
 .vs/*
 MobilePhoneSimulator/obj/*
 MobilePhoneSimulator/bin/*
+mstest-moq/obj/*
+mstest-moq/bin/*
+nunit-fluentassertion-nsubstitute/obj/*
+nunit-fluentassertion-nsubstitute/bin/*
+xunit-fakeiteasy-shouldly/obj/*
+xunit-fakeiteasy-shouldly/bin/*

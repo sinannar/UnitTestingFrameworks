@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhoneSimulator", "MobilePhoneSimulator\MobilePhoneSimulator.csproj", "{A59C8900-EBAA-40AB-8605-A709D55B44BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobilePhoneSimulator", "MobilePhoneSimulator\MobilePhoneSimulator.csproj", "{A59C8900-EBAA-40AB-8605-A709D55B44BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mstest-moq", "mstest-moq\mstest-moq.csproj", "{7D82C366-68EB-4250-A8F5-70FA3C08D90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunit-fluentassertion-nsubstitute", "nunit-fluentassertion-nsubstitute\nunit-fluentassertion-nsubstitute.csproj", "{69B90623-80E2-4E4A-AD63-6A6F64D9E385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit-fakeiteasy-shouldly", "xunit-fakeiteasy-shouldly\xunit-fakeiteasy-shouldly.csproj", "{2B185160-9F00-43B3-BA68-A02581F4920A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59C8900-EBAA-40AB-8605-A709D55B44BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D82C366-68EB-4250-A8F5-70FA3C08D90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D82C366-68EB-4250-A8F5-70FA3C08D90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D82C366-68EB-4250-A8F5-70FA3C08D90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D82C366-68EB-4250-A8F5-70FA3C08D90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B90623-80E2-4E4A-AD63-6A6F64D9E385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B90623-80E2-4E4A-AD63-6A6F64D9E385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B90623-80E2-4E4A-AD63-6A6F64D9E385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B90623-80E2-4E4A-AD63-6A6F64D9E385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B185160-9F00-43B3-BA68-A02581F4920A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B185160-9F00-43B3-BA68-A02581F4920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B185160-9F00-43B3-BA68-A02581F4920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B185160-9F00-43B3-BA68-A02581F4920A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
